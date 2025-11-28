@@ -1,41 +1,13 @@
-# ABOUT-ME
-Hi, I'm Davina Titus 👋
-Building games, breaking bugs, and turning data into clear, visual stories.
+# ABOUT-ME BEYOND ACADEMICS 
 
-🚀 About Me
-🎓 Computer Science student at the University of Illinois Chicago (BS CS – Software Engineering, GPA 3.77, May 2028).​
+My artistic passion extends beyond creation to purpose, as I launched an art business during the COVID-19 pandemic. This venture allows me to sell prints of my work with a significant portion of the proceeds directed to ACCESS, a charity I strongly believe in, blending my love for art with a commitment to social impact.
 
-💻 Interested in software engineering, data-driven applications, and game-style projects.​
+Athletics have been a constant thread throughout my life, beginning with track and field at a very young age and competing all through school. While I have chosen not to pursue it at the collegiate level, the discipline and camaraderie from those years have left a lasting impression, making it a cherished part of my personal history.
 
-🌍 Based in Chicago, IL, with experience as a Project Intern at Ernst & Young Technology Solutions in Bangalore, India.​
+My musical journey started at the age of eight with the keyboard, which I developed to a professional standard by the time I was twelve. This dedication was formally recognized with a Grade 3 certification from the Trinity College of London, marking a significant achievement in my technical and artistic development.
 
-🧩 I enjoy designing systems that are both logical and user-friendly, from menu-driven tools to strategy games.
+In my junior year of high school, I discovered an interest in the logical and creative world of coding. I began with Python and MySQL and have continued to enjoy the process of problem-solving and building through programming ever since.
 
-🔨 What I’ve Built
-🛣 Red Light Cameras Data Analysis – C++ program analyzing 5,000+ violation records with statistics, neighborhood summaries, and search features.
+My interest in fashion is a personal canvas where I enjoy blending chic and casual aesthetics. I often work with a foundational palette of black and white, accentuated by bold prints like leopard. This style is completed with carefully chosen statement pieces, such as elegant handbags and jewelry, to create a cohesive and expressive look.
 
-🎲 Half-Gammon Game – 2‑player C++ backgammon-style game with dice rolling, move validation, and win checking.
-
-♟️ Connect Four, Peg Game, Turtle Target Game, Python Pizzeria – small game and practice projects focused on logic, state, and user interaction.​
-
-(You can add links here, for example:
-🔗 View my projects )
-
-🧠 Tech & Tools
-Languages: Python (Pandas, NumPy), C++, JavaScript, SQL (MySQL), HTML.​
-
-Concepts: Data structures & algorithms, OOP, basic data analysis, game logic.
-
-Interests: UI/UX principles, data visualization, and responsive web design.​
-
-🤝 Communities
-👩‍💻 Association for Computing Machinery (ACM) @ UIC – weekly tech talks, coding meetups, and hackathon-style challenges.
-
-🌟 Women in Computer Science (WiCS) @ UIC – workshops on career readiness, networking, and technical confidence.​
-
-📫 Let’s Connect
-📄 LinkedIn: linkedin.com/in/davina-titus-855199254
-
-🧑‍💻 GitHub: github.com/tdavina67
-
-Thanks for visiting my profile — feel free to explore my repos or reach out to collaborate! 🚀
+I am also an enthusiastic traveler, driven by a desire to explore new cultures and places. Each journey is an opportunity to broaden my global perspective and gain a deeper understanding of the world, which I find both inspiring and essential to my personal growth.each out to collaborate! 🚀
